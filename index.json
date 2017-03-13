@@ -1,5 +1,7 @@
 {
     "Tooltip" : "tooltip",
+    "Select" : "select",
+    "Tabs" : "tabs",
     "Toggler" : "toggler",
     "JQuery": "jquery"
 }

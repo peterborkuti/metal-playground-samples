@@ -1,0 +1,17 @@
+	div {
+	    padding-bottom: 60px;
+	}
+	.nav-rectangle>li {
+	    display: block;
+	    float: left;
+	    padding: 10px 15px;
+	}
+	.nav-rectangle>li>a {
+	    color: #d3f;
+	}
+	.nav-rectangle>li.active>a {
+	    background-color: #1f4;
+	    border-radius: 0px;
+	    color: #000;
+	    padding: 10px 15px;
+	}

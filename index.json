@@ -1,4 +1,5 @@
 {
     "Tooltip" : "tooltip",
-    "Toggler" : "toggler"
+    "Toggler" : "toggler",
+    "JQuery": "jquery"
 }

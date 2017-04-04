@@ -3,5 +3,6 @@
     "Select" : "select",
     "Tabs" : "tabs",
     "Toggler" : "toggler",
-    "JQuery": "jquery"
+    "JQuery": "jquery",
+    "Alert": "alert"
 }

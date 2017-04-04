@@ -4,5 +4,9 @@
     "Tabs" : "tabs",
     "Toggler" : "toggler",
     "JQuery": "jquery",
-    "Alert": "alert"
+    "Alert": "alert",
+    "Modal": "modal",
+    "List": "list",
+    "Autocomplete": "autocomplete",  
+    "Reading progress": "readingprogress"
 }

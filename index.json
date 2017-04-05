@@ -7,6 +7,8 @@
     "Alert": "alert",
     "Modal": "modal",
     "List": "list",
-    "Autocomplete": "autocomplete",  
-    "Reading progress": "readingprogress"
+    "Autocomplete": "autocomplete",
+    "Reading progress": "readingprogress",
+    "Slider": "slider",
+    "Autocomplete badges": "badges"
 }

@@ -1,0 +1,19 @@
+.box {
+  background-color: red;
+  left: 20px;
+  height: 200px;
+  position: absolute;
+  top: 70px;
+  width: 200px;
+}
+.box.blue {
+  background-color: blue;
+  left: 320px;
+  top: 70px;
+}
+.handle {
+  background-color: black;
+  float: right;
+  height: 40px;
+  width: 40px;
+}
